@@ -4,17 +4,17 @@
         {
             "name" : "John Garg",
             "age"  : "15",
-            "school" : "Ahlcon Public school"
+            "school" : "Ahlcon Public School"
         },
         {
             "name" : "Smith Soy",
             "age"  : "16",
-            "school" : "St. Marie school"
+            "school" : "St. Marie School"
         },
         {
             "name" : "Charle Rena",
             "age"  : "16",
-            "school" : "St. Columba school"
+            "school" : "St. Columba School"
         }
     ]';
 
